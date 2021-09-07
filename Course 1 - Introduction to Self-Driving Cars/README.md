@@ -21,7 +21,8 @@ This is an advanced course, intended for learners with a background in mechanica
 
 You will also need certain hardware and software specifications in order to effectively run the CARLA simulator: Windows 7 64-bit (or later) or Ubuntu 16.04 (or later), Quad-core Intel or AMD processor (2.5 GHz or faster), NVIDIA GeForce 470 GTX or AMD Radeon 6870 HD series card or higher, 8 GB RAM, and OpenGL 3 or greater (for Linux computers).
 
-Final Project:  
+ 
 </p>
+Final Project: 
 
-![](self_driving_car.mp4)
+[![Watch the video]](self_driving_car.mp4)

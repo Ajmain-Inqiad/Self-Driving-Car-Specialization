@@ -25,4 +25,4 @@ You will also need certain hardware and software specifications in order to effe
 </p>
 Final Project: 
 
-[![Watch the video]](self_driving_car.mp4)
+[![Self driving car](http://img.youtube.com/vi/60BKocwUuiA/0.jpg)](http://www.youtube.com/watch?v=60BKocwUuiA "Self driving car")

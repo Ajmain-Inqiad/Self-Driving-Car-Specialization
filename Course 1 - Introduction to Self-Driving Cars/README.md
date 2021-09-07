@@ -23,6 +23,8 @@ You will also need certain hardware and software specifications in order to effe
 
 Final Project:
   
-  ![](self_driving_car.mp4)
+<video width="320" height="240" controls>
+  <source src="self_driving_car.mp4" type="video/mp4">
+</video>
   
 </p>
